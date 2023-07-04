@@ -1,0 +1,7 @@
+# Connect
+open sftp://root:mypassword@sftp.cloud.web.it/
+
+#Connection option
+option batch continue
+option confirm off
+
